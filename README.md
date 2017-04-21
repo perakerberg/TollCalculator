@@ -1,7 +1,7 @@
 # Toll fee calculator 1.0
 A calculator for vehicle toll fees.
 
-##Background
+## Background
 Our city has decided to implement toll fees in order to reduce traffic congestion during rush hours.
 This is the current draft of requirements:
  
@@ -12,7 +12,7 @@ This is the current draft of requirements:
 * Some vehicle types are fee-free
 * Weekends and holidays are fee-free
 
-##Your assignment
+## Your assignment
 The last city-developer quit recently, but left these four classes. He claims that it is production-ready. 
 You are now the new developer for our city. Your job is to deliver the code and from now on, you are the responsible go-to-guy for this solution. Make sure that the code meets your standards.
 
